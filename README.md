@@ -40,7 +40,7 @@ The website is intentionally kept lightweight and framework-free to ensure fast 
 📂 Project Structure
 cineholmes-website/
 │
-├─ index.html
+├─ index.html \n
 ├─ css/
 │ └─ style.css
 ├─ images/
